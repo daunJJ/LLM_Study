@@ -1,4 +1,4 @@
-## Seq2Seq Learning
+## Seq2Seq Learning 기본 구조
 
 ### **Input/Output**
 
