@@ -58,7 +58,7 @@
 
   <img src="https://github.com/daunJJ/LLM_Study/assets/109944763/1676ad27-e452-4bab-bafc-6ed708a9ab1f" width="450"/>    
 
-## 트랜스포머
+## 트랜스포머 기본 구조
 
 ### Tranformer
 
