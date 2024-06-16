@@ -6,7 +6,7 @@
 * 스터디 기간: 2024.02 ~ 2024.06
 * 작성자: 정다운
 
-## Contents
+## Content
 #### 딥러닝 기반 기계 번역 모델 학습
 
 1. RNN
@@ -36,7 +36,7 @@
 3. Prompt Engieerning 기법 
     - [CoT 기본 개념](https://github.com/daunJJ/LLM_Study/blob/main/Prompt-Engineering/CoT(Chain-of-Thought).md)
 
-## References
+## Reference
 - 모두를 위한 대규모 언어 모델 LLM(Large Language Model) Part 1/인프런
 - Seq2Seq Learning/고려대학교 산업경영공학과 일반대학원
 - [딥러닝 기계 번역] Transformer: Attention Is All You Need (꼼꼼한 딥러닝 논문 리뷰와 코드 실습)/동빈나 
